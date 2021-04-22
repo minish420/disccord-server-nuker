@@ -1,3 +1,4 @@
 # disccord-server-nuker
 
-ignore this, read the .txt
+A discord server nuker made in javascript using node.js and discord.js 
+
